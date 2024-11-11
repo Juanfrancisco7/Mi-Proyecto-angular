@@ -67,7 +67,6 @@
             "development": {
               "buildTarget": "Mi-proyecto-Angular:build:development"
             }
-            
           },
           "defaultConfiguration": "development"
         },
