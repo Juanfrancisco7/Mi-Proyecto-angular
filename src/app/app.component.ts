@@ -8,7 +8,7 @@ import { RouterOutlet } from '@angular/router';
   imports: [CommonModule, RouterOutlet],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
-})
+}) 
 export class AppComponent {
   title = 'Mi-proyecto-Angular';
 }
